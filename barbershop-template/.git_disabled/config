@@ -1,0 +1,15 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[branch "master"]
+	gk-last-accessed = 2026-02-02T08:45:30.107Z
+	gk-last-modified = 2026-02-02T08:29:47.808Z
+	remote = origin
+	merge = refs/heads/master
+[remote "origin"]
+	url = https://github.com/demde0/barbershop-template
+	fetch = +refs/heads/*:refs/remotes/origin/*
